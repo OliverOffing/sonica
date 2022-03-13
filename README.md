@@ -1,6 +1,6 @@
 > This project is accepting logo suggestions.
 
-# Sonica
+# Sonica ⚡🔉
 
 **Sonica** is a cheap seed-signing device for Bitcoin multi-sig wallets.
 
