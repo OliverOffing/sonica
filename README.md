@@ -1,4 +1,4 @@
-> This project is accepting logo suggestions.
+> This project has been archived. My new project is about using friend' and family's Android phones as seed-signing devices.
 
 # Sonica ⚡🔉
 
